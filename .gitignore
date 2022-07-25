@@ -1,5 +1,4 @@
 .DS_Store
-.env*
 .flaskenv
 *.pyc
 *.pyo
@@ -25,7 +24,6 @@ htmlcov/
 *,cover
 
 # Direnv
-.envrc
 .direnv
 
 .github/**
